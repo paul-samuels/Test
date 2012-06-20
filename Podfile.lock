@@ -1,0 +1,7 @@
+PODS:
+  - AFNetworking (1.0RC1)
+  - Kiwi (1.0.0)
+
+DEPENDENCIES:
+  - AFNetworking
+  - Kiwi
