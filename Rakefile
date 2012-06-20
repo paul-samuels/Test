@@ -1,3 +1,3 @@
 task :setup do
-  puts 'asas'
+  sh 'pod install'
 end
