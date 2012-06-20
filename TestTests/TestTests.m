@@ -29,7 +29,7 @@
   STAssertNil(nil, @"Should be nil");
 }
 
-- (void)mas
+- (void)testMas
 {
   STFail(@"as");
 }
