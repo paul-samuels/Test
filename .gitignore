@@ -9,7 +9,9 @@ build/*
 *.perspectivev3
 !default.perspectivev3
 *.xcworkspace
+!Test.xcworkspace
 !default.xcworkspace
 xcuserdata
 profile
 *.moved-aside
+Pods/*
